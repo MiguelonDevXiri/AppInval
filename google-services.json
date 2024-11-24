@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818000397153",
+    "project_id": "inspeccionesmaquinaria-9b674",
+    "storage_bucket": "inspeccionesmaquinaria-9b674.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818000397153:android:e45f46095452cda3867b20",
+        "android_client_info": {
+          "package_name": "com.inspecciones.maquinaria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvH15z89nuG31P1N79DF7rLJa_d6V5vFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
